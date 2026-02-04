@@ -1,5 +1,5 @@
 ## Hola mi nombre es Jacobo 🌮
-Soy estudiante de Mecatronica en la Universidad Politecnica de Aguascalientes 
+Soy estudiante de Mecatronica en la Universidad Politecnica de Aguascalientes   
 Soy parte del grupo representativo de voleibol de la UPA y del estado de Aguascalientes 🏐⛳
 
 <!--
