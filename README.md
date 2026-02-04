@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola mi nombre es Jacobo 
+##Soy estudiante de Mecatronica en la Universidad Politecnica de Aguascalientes
 
 <!--
 **up250520vpj/up250520vpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
